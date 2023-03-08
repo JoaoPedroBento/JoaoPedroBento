@@ -21,6 +21,6 @@
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="JoaoPedro-pic" height="150" style="border-radius:50px;" src="https://instagram.fmii3-1.fna.fbcdn.net/v/t51.2885-19/320199384_205638091928510_2496970933945944638_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmii3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Sl1uSEDWREkAX-Qb7m1&edm=AId3EpQBAAAA&ccb=7-5&oh=00_AfAY9NiKOqr6Chc01p-MH_-YjAO8n1MyLBc_8pti1QQLKw&oe=640E065D&_nc_sid=705020">
-</div>
+</div><br/>
 
 Estudando progamação para facilitar a vida da melhor maneira possível.
