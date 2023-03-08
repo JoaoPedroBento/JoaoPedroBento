@@ -24,5 +24,3 @@
 </div>
 
 Estudando progamação para facilitar a vida da melhor maneira possível.
-
-![Snake animation](https://github.com/JoaoPedroBento/JoaoPedroBento/blob/output/github-contribution-grid-snake.svg)
